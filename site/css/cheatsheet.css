@@ -1,11 +1,24 @@
 h1 {
     font-family: Monospace, sans-serif;
+    color: black;
 }
 
 h2 {
     font-family: Monospace, sans-serif;
+    color: black;
+}
+
+h3 {
+    font-family: Monospace, sans-serif;
+    color: black;
 }
 
 p {
     font-family: Monospace, sans-serif;
+    color: black;
+}
+
+
+body {
+    background-color: pink;
 }

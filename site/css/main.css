@@ -23,26 +23,12 @@
     font-family: Main;
 }
 
-.menu {
-    background-color: rgba(221, 160, 221, 0.8);
+a {
+    color:white;
+    text-decoration: none;
 }
-.menu h2 {
-    font-family: Heading;
-}
-.menu p {
-    font-family: Heading;
-    font-size: 15px
-}
-.menu button {
-    background-color: rgba(0, 0, 0, 0);
-    color: none;
-    border: none;
-}
-.menu button:hover {
-    background-color: rgb(156, 79, 156);
-}
-.menu a {
-    color: white;
+a:hover {
+    color:white;
     text-decoration: none;
 }
 
